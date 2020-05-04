@@ -1,0 +1,38 @@
+Name: Zhengran Gao
+USC ID: 2121161814
+News site crawled: nytimes.com
+Number of threads: 7
+
+Fetch Statistics
+================
+# fetches attempted:19996
+# fetches succeeded:16668
+# fetches failed or aborted:3328
+
+Outgoing URLs:
+==============
+Total URLs extracted:
+# unique URLs extracted:192435
+# unique URLs within News Site:73641
+# unique URLs outside News Site:118794
+Status Codes:
+============
+200 OK:16668
+301 Moved Permanentlty:244
+401 Unauthorized:1
+403 Forbidden:2
+404 Not Found:19
+File Sizes:
+============
+< 1 KB:4
+1KB ~ <10KB:36
+10KB ~ <100KB:409
+100KB ~ <1MB:14869
+>= 1MB:1235
+Content Types:
+============
+text/html:16468
+image/gif:0
+image/jpeg:0
+image/png:19
+application/pdf:0
